@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<registration>
+    <customers>
+        <firstName>Vaiva</firstName>
+        <id>0</id>
+        <lastName>Mackevičaitė</lastName>
+    </customers>
+    <customers>
+        <firstName>Daiva</firstName>
+        <id>0</id>
+        <lastName>Vilnietė</lastName>
+    </customers>
+    <date>2023-03-01</date>
+    <id>0</id>
+    <register>
+        <courseName>Math</courseName>
+        <id>0</id>
+        <price>10000</price>
+        <professor>Cena</professor>
+    </register>
+    <register>
+        <courseName>The witcher</courseName>
+        <id>0</id>
+        <price>69</price>
+        <professor>Cena</professor>
+    </register>
+</registration>
